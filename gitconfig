@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benoitsommariva@gmail.com
+	name = benoit sommariva
